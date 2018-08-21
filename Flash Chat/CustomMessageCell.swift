@@ -2,8 +2,8 @@
 //  CustomMessageCell.swift
 //  Flash Chat
 //
-//  Created by Angela Yu on 30/08/2015.
-//  Copyright (c) 2015 London App Brewery. All rights reserved.
+//  Created by Adryan Yudhatrisna on 30/07/2018.
+//  Copyright (c) 2018 London App Brewery. All rights reserved.
 //
 
 import UIKit
